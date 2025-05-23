@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/15e4c419-4835-40f1-8625-7f3be612cab6)
 
-Welcome to my repository of valid audit contest findings! This repo documents my submissions to various smart contract auditing contests, primarily through Cyfrin CodeHawks and Sherlock Audit platforms. Below, you'll find tables listing my validated findings for "First Flights" (beginner-friendly audits) and "Audit Contests" (more advanced competitive audits). Each entry links to the specific finding for more details.
+Welcome to my repository of valid audit contest findings! This repo documents my submissions to various smart contract auditing contests. Below, you'll find tables listing my validated findings for "First Flights" (beginner-friendly audits) and "Audit Contests" (more advanced competitive audits). Each entry links to the specific finding for more details.
 
 ## First Flights Findings
 
